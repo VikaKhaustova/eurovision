@@ -1,0 +1,28 @@
+main p{
+    text-align: center;
+}
+h2{
+    font-family: sans-serif;
+    font-size:50px ;
+    border-top: 5px dotted black;
+    text-align: center;
+    border-bottom: 5px dotted black;
+}
+h3{
+  font-family: sans-serif;
+    font-size:50px ;
+    border-top: 5px dotted black;
+    text-align: center;
+    border-bottom: 5px dotted black;  
+}
+h4{
+  font-family: sans-serif;
+    font-size:50px ;
+    border-top: 5px dotted black;
+    text-align: center;
+    border-bottom: 5px dotted black;  
+}
+
+nav{
+  text-align: center;
+}
